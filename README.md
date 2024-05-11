@@ -14,6 +14,8 @@ I'm Ebrahim Alhayki, a Full-Stack Developer (Beginner Level) based in Bahrain. W
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white&style=flat)
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 - ![Visual Basic](https://img.shields.io/badge/Visual_Basic-9457A1?logo=visual-studio&logoColor=white&style=flat)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 
 ### 📊 GitHub Stats
 
