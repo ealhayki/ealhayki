@@ -2,7 +2,7 @@
 
 ## 👋 Hello World! 
 
-I'm Ebrahim Alhayki, a Full-Stack Developer (Beginner Level) based in Bahrain. Welcome to my GitHub profile!
+I'm Ebrahim Alhayki, a Full-Stack Developer based in Bahrain. Welcome to my GitHub profile!
 
 ### 🔧 Technologies & Tools
 
