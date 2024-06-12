@@ -6,8 +6,6 @@ I'm Ebrahim Alhayki, a Full-Stack Developer based in Bahrain. Welcome to my GitH
 
 ### 🔧 Technologies & Tools
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 - ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
