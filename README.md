@@ -20,7 +20,7 @@ I'm Ebrahim Alhayki, a Full-Stack Developer based in Bahrain. Welcome to my GitH
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4alhayki&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ealhayki&show_icons=true&theme=radical)
 
 ### ❤️ Support Me
 
