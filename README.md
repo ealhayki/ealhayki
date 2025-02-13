@@ -43,9 +43,6 @@
 
 ## 🤝 Let's Connect!
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ebralhayki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
 
 ---
 
