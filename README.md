@@ -4,12 +4,11 @@
 📍 Based in Bahrain
 🚀 Passionate about Software Development
 
-
+---
 
 ## 🚀 About Me
 - 🔭 Currently working at **Alaujan Group**
 - 🎓 Full-Stack Developer Student at **Reboot 01 Institute**
-- 🌱 Learning **Web App & Mobile App Development**
 - 📫 How to reach me: [ebralhayki@gmail.com]
 
 ---
@@ -36,16 +35,14 @@
 
 ---
 
-## 📌 Featured Projects
-### 🔹 [Project Name 1](https://github.com/yourusername/project1)
-🔹 Brief description of the project
-
-### 🔹 [Project Name 2](https://github.com/yourusername/project2)
-🔹 Brief description of the project
+## 📚 Learning
+### Mobile App Development
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 ---
 
 ## 🤝 Let's Connect!
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ebralhayki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
