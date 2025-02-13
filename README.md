@@ -26,9 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=light)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=golang,python,nodejs)](https://skillicons.dev)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=golang,python,nodejs,expressjs)](https://skillicons.dev)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
