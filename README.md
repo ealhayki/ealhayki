@@ -28,14 +28,11 @@
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=golang,python,nodejs,expressjs)](https://skillicons.dev)
 
-### Database & Clouds
+### Database & Cloud Services
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb,firebase,aws)](https://skillicons.dev)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,vscode)](https://skillicons.dev)
 
 ---
 
