@@ -4,7 +4,7 @@
 📍 Based in Bahrain
 🚀 Passionate about Software Development
 
----
+
 
 ## 🚀 About Me
 - 🔭 Currently working at **Alaujan Group**
